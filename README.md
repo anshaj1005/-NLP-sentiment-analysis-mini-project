@@ -39,8 +39,4 @@ Scikit-learn → Vectorization, ML models, evaluation
 Successfully built a sentiment analysis pipeline
 Demonstrated text preprocessing techniques
 Achieved strong classification performance with Random Forest
-🛠️ Installation & Usage
-1. Clone the Repository
-git clone https://github.com/your-username/nlp-sentiment-analysis-mini-project.git
-cd nlp-sentiment-analysis-mini-project
----
+
